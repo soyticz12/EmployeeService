@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Hris.EmployeeService.Api/Hris.EmployeeService.Api.csproj" />
+    <Project Path="src/Hris.EmployeeService.Application/Hris.EmployeeService.Application.csproj" />
+    <Project Path="src/Hris.EmployeeService.Domain/Hris.EmployeeService.Domain.csproj" />
+    <Project Path="src/Hris.EmployeeService.Infrastructure/Hris.EmployeeService.Infrastructure.csproj" />
+  </Folder>
+</Solution>
